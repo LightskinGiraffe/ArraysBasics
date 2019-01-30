@@ -6,7 +6,7 @@ var arrayName = ["element", "element", 0, 1];
 */
 
 //array with 4 elements, a max index number of 3
-var exArray = ["run", "watch tv", "play games", "spend time with family"];
+var exArray = ["play games", "watch tv", "jiu jitsu", "hang out with friends"];
 var exVar = 1;
 
 /* How to access specific elements in my array:
