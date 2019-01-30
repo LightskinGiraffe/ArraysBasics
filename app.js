@@ -1,3 +1,26 @@
+/*
+Arrays: a single variable used to store different elements, list of 
+variable elements
+Syntax: 
+var arrayName = ["element", "element", 0, 1];
+*/
+
+//array with 4 elements, a max index number of 3
+var exArray = ["run", "watch tv", "play games", "spend time with family"];
+var exVar = 1;
+
+/* How to access specific elements in my array:
+arrayName[indexNum];
+first element in your array = 0
+second element = 1
+third element = 2
+
+IF I WANT TO ACCESS MY ELEMENT "RUN"
+*/
+
+console.log(exArray[0]);
+
+
 //1. Create an array listing ingredients to your favorite recipe.  
 //Name your array the recipe name.
 //2. Create an array listing the classes you are taking this semester.
@@ -14,4 +37,3 @@
 //"One of my favorite movies is ________."
 //8. Access the first element in your last  array and print it as part of the following sentence 
 //"One of my favorite __(fill in)__ is ________."
-
