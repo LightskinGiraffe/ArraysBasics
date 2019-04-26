@@ -23,6 +23,7 @@ console.log(exArray[0]);
 
 //1. Create an array listing ingredients to your favorite recipe.  
 //Name your array the recipe name.
+var macNcheese = ["macaroni","cheese"];
 //2. Create an array listing the classes you are taking this semester.
 //Name your array "SpringSem19"
 //3. Create an array listing your favorite all time movies.
@@ -37,3 +38,7 @@ console.log(exArray[0]);
 //"One of my favorite movies is ________."
 //8. Access the first element in your last  array and print it as part of the following sentence 
 //"One of my favorite __(fill in)__ is ________."
+
+for (i = 0; i < 10; i = 1 + 3){
+    console.log("Hi everyone, I can count to " + i);
+}
